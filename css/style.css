@@ -1,0 +1,104 @@
+
+.navbar-custom {
+  background-color:#fff;
+  color:#ffffff;
+  border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+  color:#000066;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+  color: #3366cc;
+  background-color:transparent;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+  text-decoration: none;
+  background-color: #e6e6e6;
+}
+
+.navbar-custom .navbar-brand {
+  color: #000066;
+}
+.navbar-custom .navbar-toggle {
+  background-color:#fff;
+}
+.navbar-custom .icon-bar {
+  background-color:#000066;
+}
+
+.navbar-brand
+{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.jumbotron {
+  background-image: url("jumbotron2.jpg");
+  background-size: cover;
+  color: white;
+  min-height: 500px;
+  margin-top: -20px;
+  overflow: hidden;
+  font-weight: 400;
+
+}
+
+.navigation {
+  padding-top: 25px;
+}
+
+.nav-pills > li > a {
+  color:#000066;
+
+}
+
+a.linkki:link {
+  color: blue;
+}
+
+a.linkki:hover {
+  color: darkblue;
+}
+
+a.linkki:active {
+  color: blue;
+}
+
+footer {
+  background: #a6a6a6;
+  color: #eee;
+  font-size: 12px;
+  padding: 30px;
+  margin-top: 200px;
+}
+
+a.one:link {
+  color: white;
+}
+
+a.one:hover {
+  color: grey;
+}
+
+a.one:active {
+  color: white;
+}
+
+a {
+  color: inherit;
+}
+
+#lomake {
+  margin-top: 30px;
+}
+
+.linkki {
+  text-decoration: underline;
+}
